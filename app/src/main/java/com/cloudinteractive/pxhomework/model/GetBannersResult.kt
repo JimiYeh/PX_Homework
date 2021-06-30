@@ -6,7 +6,7 @@ import com.google.gson.annotations.SerializedName
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-data class GetBannerResult(
+data class GetBannersResult(
 
     @SerializedName("banners")
     val banners: List<Banner> = listOf()

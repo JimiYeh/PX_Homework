@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PX Homework</string>
+    <string name="message_fragment_title">我的訊息</string>
+    <string name="edit">編輯</string>
 </resources>
