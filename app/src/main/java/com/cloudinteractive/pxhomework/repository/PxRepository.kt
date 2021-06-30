@@ -1,6 +1,6 @@
-package com.cloudinteractive.repository
+package com.cloudinteractive.pxhomework.repository
 
-import com.cloudinteractive.network.Client
+import com.cloudinteractive.pxhomework.network.Client
 
 class PxRepository {
 

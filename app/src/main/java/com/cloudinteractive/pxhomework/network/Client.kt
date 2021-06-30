@@ -1,4 +1,4 @@
-package com.cloudinteractive.network
+package com.cloudinteractive.pxhomework.network
 
 import android.os.Build
 import com.cloudinteractive.pxhomework.BuildConfig

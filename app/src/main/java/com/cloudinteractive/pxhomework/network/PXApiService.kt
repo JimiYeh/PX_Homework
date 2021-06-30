@@ -1,4 +1,4 @@
-package com.cloudinteractive.network
+package com.cloudinteractive.pxhomework.network
 
 import com.cloudinteractive.pxhomework.model.BaseResponse
 import com.cloudinteractive.pxhomework.model.GetBannersResult
